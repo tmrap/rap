@@ -1,0 +1,1 @@
+Рекламу тыркаем в header_banner.tpl
